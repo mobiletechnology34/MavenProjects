@@ -25,4 +25,5 @@ Check git version :  git --version
                     git push
                     git push -u origin master
 
+                    git log - is another friend like git status
 
