@@ -1,0 +1,23 @@
+
+
+
+Check git version :  git --version
+
+        Introduce yourself to GIT(do it once)
+
+                     git config --global user.name "Your Name"
+                     git config --global user.email you@example.com
+                     git config --global color.ui true
+
+
+                    git init  ->
+                    git status ->
+
+                    git add filename
+                    OR:
+                    git add .
+
+
+                    git commit -m "write you commit"
+
+
