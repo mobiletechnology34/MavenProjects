@@ -21,3 +21,8 @@ Check git version :  git --version
                     git commit -m "write you commit"
 
 
+
+                    git push
+                    git push -u origin master
+
+
