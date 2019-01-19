@@ -48,3 +48,16 @@ Check git version :  git --version
             git merge command ==> it will get commit from local repository to workspace.
              
 
+
+1) commit all the changes locally first
+2) pull and make sure you have all the commit in github
+3) if there are any merge conflicts, solve them 
+4) PUSH to remote
+
+
+
+Best Practice:
+
+        depending on how you use git, the above is good practice.
+        
+        to make it even beyyer, we should use branching in Git.
