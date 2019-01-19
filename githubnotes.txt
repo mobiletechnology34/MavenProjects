@@ -61,3 +61,15 @@ Best Practice:
         depending on how you use git, the above is good practice.
         
         to make it even beyyer, we should use branching in Git.
+        
+        
+        
+  ============================================
+  
+        when do merge conflict happen?
+                whenever changes were made to same file and some exact line are different. 
+                
+                
+                
+                
+  
