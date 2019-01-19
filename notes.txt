@@ -27,5 +27,24 @@ Check git version :  git --version
 
                     git log - is another friend like git status
 
-
+                       
+                       
+                    What is merge?
+                    combine changes from different sources togather.
+                 1) MERGE local version of the file with remote version of the file.
+                 
+                 
+              how to bring white color to to our local Color.txt
+              
+             1) git pull (it a combination of fetch+merge)
+             
+             git fetch
+             git merge
+             
+             
+            fetch command => it will bring the changes / commits to local git repository. not in workspace yer, connot see in eclipse or intellij.
+            
+            
+            git merge command ==> it will get commit from local repository to workspace.
+             
 
